@@ -1,0 +1,6 @@
+{
+  "name": "StudyYourMind",
+  "description": "Aplicação para ajudar estudantes iniciantes a organizar e acompanhar objetivos de estudo com clareza e persistência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
